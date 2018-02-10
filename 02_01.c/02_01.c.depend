@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518294111 source:c:\users\eng\desktop\c.essential.training\02_01.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myLibrary.h"
+
+1518293988 c:\users\eng\desktop\c.essential.training\02_01.c\mylibrary.h
+
+1422167739 c:\users\eng\desktop\c.essential.training\02_01.c\mylibrary.c
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1518295123 source:c:\users\eng\desktop\c.essential.training\02_02.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"specialTasks.h"
+	"specialTasks.c"
+
+1518295010 c:\users\eng\desktop\c.essential.training\02_02.c\specialtasks.h
+
+1518294970 c:\users\eng\desktop\c.essential.training\02_02.c\specialtasks.c
+
